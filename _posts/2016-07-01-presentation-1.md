@@ -4,11 +4,11 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Deteccion y Corrección de Errore 
-   slide-data: ---
+ - title: Deteccion y Corrección de Errores 
+   slide-data: 
      
- - title: advwr
-   slide-data: This is second slide
+ - title: 
+   slide-data: Para la mayoria de aplicaciones el sistema debe garantizar que los datos recibidos sean identicos a los datos transmitidos
 
  - title: Slide 3
    slide-data: This is third slide
