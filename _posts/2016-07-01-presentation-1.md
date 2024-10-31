@@ -1,11 +1,11 @@
 ---
-title: CAMBIO 2
+title: CAPITULO 10
 layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: cambios1
-   slide-data: Tjadcjosdcj
+ - title: Deteccion y Corrección de Errore 
+   slide-data: ---
      
  - title: advwr
    slide-data: This is second slide
