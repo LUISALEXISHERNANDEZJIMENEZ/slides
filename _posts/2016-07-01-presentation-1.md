@@ -1,10 +1,10 @@
 ---
-title: Csambio 1
+title: Capitulo 10
 layout: post
-permalink: /presentation-1/
+permalink: //
 background: '#0a5'
 slides:
- - title: Slide 1
+ - title: Tema 1
    slide-data: This is first slide
      
  - title: Slide 2
