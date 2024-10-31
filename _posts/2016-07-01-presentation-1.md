@@ -5,7 +5,7 @@ permalink: /presentation-1/
 background: '#0a5'
 slides:
  - title: cambios1
-   slide-data: This is first slide
+   slide-data: Tjadcjosdcj
      
  - title: advwr
    slide-data: This is second slide
