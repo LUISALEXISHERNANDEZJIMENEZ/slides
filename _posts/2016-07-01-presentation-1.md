@@ -16,6 +16,33 @@ slides:
  - title: Error de un solo bit.
    slide-data: Significa que solo 1 bit de una unidad de datos (como un byte, carácter o paquete) cambia de 1 a 0 o de 0 a 1. Los errores de un solo bit son el tipo de error menos probable en la transmisión de datos en serie
   
+  - title: --
+   slide-data: --
+
+ - title: --
+   slide-data: --
+  
+ - title: --
+   slide-data: --
+  
+  - title: --
+   slide-data: --
+
+ - title: --
+   slide-data: --
+  
+ - title: --
+   slide-data: --
+  
+  - title: --
+   slide-data: --
+
+ - title: --
+   slide-data: --
+  
+ - title: --
+   slide-data: --
+  
 ---
 
 {% for slide in page.slides %}
