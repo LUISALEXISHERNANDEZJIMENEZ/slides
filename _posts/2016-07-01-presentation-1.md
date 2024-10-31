@@ -10,8 +10,10 @@ slides:
  - title: 
    slide-data: Para la mayoria de aplicaciones el sistema debe garantizar que los datos recibidos sean identicos a los datos transmitidos
 
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Tipos de errores
+   slide-data: Al transmitir bits, la interferencia puede alterar la señal. 
+   En un error de un solo bit, un 0 cambia a 1 o viceversa.
+   En un error en ráfaga, varios bits se alteran, por ejemplo, el ruido en una transmisión de 1200 bps podría cambiar 12 bits de información.
   
 ---
 
