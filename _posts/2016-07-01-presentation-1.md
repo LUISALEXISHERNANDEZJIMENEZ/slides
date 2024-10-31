@@ -14,34 +14,10 @@ slides:
    slide-data: Al transmitir bits, la interferencia puede alterar la señal. En un error de un solo bit, un 0 cambia a 1 o viceversa. En un error en ráfaga, varios bits se alteran, por ejemplo, el ruido en una transmisión de 1200 bps podría cambiar 12 bits de información.
   
  - title: Error de un solo bit.
-   slide-data: Significa que solo 1 bit de una unidad de datos (como un byte, carácter o paquete) cambia de 1 a 0 o de 0 a 1. Los errores de un solo bit son el tipo de error menos probable en la transmisión de datos en serie
-  
-  - title: sfv
-   slide-data: sfv
+   slide-data: Al transmitir bits, la interferencia puede alterar la señal. En un error de un solo bit, un 0 cambia a 1 o viceversa. En un error en ráfaga, varios bits se alteran, por ejemplo, el ruido en una transmisión de 1200 bps podría cambiar 12 bits de información.
 
- - title: sfv
-   slide-data: sfv
-  
- - title: --
-   slide-data: --
-  
-  - title: --
-   slide-data: --
-
- - title: --
-   slide-data: --
-  
- - title: --
-   slide-data: --
-  
-  - title: --
-   slide-data: --
-
- - title: --
-   slide-data: --
-  
- - title: --
-   slide-data: --
+   - title: Error de un solo bit.
+   slide-data: Al transmitir bits, la interferencia puede alterar la señal. En un error de un solo bit, un 0 cambia a 1 o viceversa. En un error en ráfaga, varios bits se alteran, por ejemplo, el ruido en una transmisión de 1200 bps podría cambiar 12 bits de información.
   
 ---
 
