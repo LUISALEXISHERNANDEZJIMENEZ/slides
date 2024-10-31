@@ -1,7 +1,7 @@
 ---
 title: CAMBIO 2
 layout: post
-permalink: /presentation-1/
+permalink: /Editando/
 background: '#0a5'
 slides:
  - title: Slide 1
