@@ -1,13 +1,13 @@
 ---
 title: CAMBIO 2
 layout: post
-permalink: /Editando/
+permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Slide 1
+ - title: cambios1
    slide-data: This is first slide
      
- - title: Slide 2
+ - title: advwr
    slide-data: This is second slide
 
  - title: Slide 3
