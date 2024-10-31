@@ -1,10 +1,10 @@
 ---
-title: Capitulo 10
+title: Presentation 1
 layout: post
-permalink: //
+permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Tema 1
+ - title: Slide 1
    slide-data: This is first slide
      
  - title: Slide 2
