@@ -60,6 +60,12 @@ slides:
      
  - title: Checksum
    slide-data: Este se basa en la redundancia y es muy utilizado por diversos protocolos de Internet, esto para la detección de errores.
+
+ - title: USOS
+   slide-data: Este consiste en enviar los bits al receptor junto con la suma de los bits dentro del paquete, permitiendo de esta manera al receptor comparar el resultado
+
+ - title: Checksum en el Internet
+   slide-data: El Internet utiliza un checksum de 16 bits. En este, el receptor calcula el resultado al dividir el mensaje en palabras de 16 bits y sumarlas usando complemento a uno.
 ---
 
 {% for slide in page.slides %}
