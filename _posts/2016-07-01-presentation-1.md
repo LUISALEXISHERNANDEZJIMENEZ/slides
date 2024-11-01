@@ -47,7 +47,13 @@ slides:
    slide-data: En una corrección de errores, el receptor necesita saber que un solo 'código' es inválido. Asi que, necesita encontrar el 'código' original enviado
      
  - title: Hamming Distance
-   slide-data: La Hamming distance entre 2 'Palabras' (del mismo tamaño) es el número de diferencias entre sus bits. Se encuentra usando un operador de XOR y contando el número de 1s en el resultado.
+   slide-data: Es el número de diferencias entre sus bits. Se encuentra usando un operador de XOR y contando el número de 1s en el resultado.
+
+ - title: Códigos cíclicos
+   slide-data: Son un tipo de Código de bloques con una propiedad extra. Si un 'Código' es rotado o sus dígitos se ponen al revés, el resultado será otro 'Código' diferente.
+
+ - title: Implementación en el Hardware
+   slide-data: Una ventaja de los códigos cíclicos es que el codificador y el decodificador pueden ser fácilmente implementados en hardware.
 ---
 
 {% for slide in page.slides %}
