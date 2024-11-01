@@ -66,6 +66,9 @@ slides:
 
  - title: Checksum en el Internet
    slide-data: El Internet utiliza un checksum de 16 bits. En este, el receptor calcula el resultado al dividir el mensaje en palabras de 16 bits y sumarlas usando complemento a uno.
+
+ - title: Detección de errores con Checksum
+   slide-data: El receptor usa los siguientes pasos para poder detectar los errores; -- El mensaje (incluido el checksum) se divide en palabras de 16 bits. -- Se suman las palabras, incluyendo 1 más. -- La suma se complementa y se convierte en el nuevo checksum. -- Si el checksum es 0, el mensaje es aceptado; de lo contrario, será rechazado
 ---
 
 {% for slide in page.slides %}
