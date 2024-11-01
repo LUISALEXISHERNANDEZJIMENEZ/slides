@@ -25,8 +25,8 @@ slides:
  - title: Metodos de corrección
    slide-data: Existen 2 métodos de corrección de errores; -Forward error correction; El receptor intenta adivinar el mensaje usando los bits restantes. - Retransmisión; El receptor pide al emisor reenviar el mensaje hasta que llegue sin errores. 
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Redundancia
+   slide-data: Para detectar o corregir errores, se necesitan enviar bits extra junto a nuestros datos. Esta redundancia es eliminada por el receptor, permitiendo detectar o corregir los bits corruptos.
 
  - title: Slide 3
    slide-data: This is thid slide 
@@ -38,7 +38,31 @@ slides:
    slide-data: This is second slide
 
  - title: Slide 3
+   slide-data: This is thid slide
+
+ - title: Slide 3
    slide-data: This is thid slide 
+
+ - title: Slide 1
+   slide-data: This is first slide
+     
+ - title: Slide 2
+   slide-data: This is second slide
+
+ - title: Slide 3
+   slide-data: This is thid slide
+
+ - title: Slide 3
+   slide-data: This is thid slide 
+
+ - title: Slide 1
+   slide-data: This is first slide
+     
+ - title: Slide 2
+   slide-data: This is second slide
+
+ - title: Slide 14
+   slide-data: This is thid slide
 ---
 
 {% for slide in page.slides %}
