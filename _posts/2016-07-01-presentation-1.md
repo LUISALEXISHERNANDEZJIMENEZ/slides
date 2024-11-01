@@ -40,14 +40,14 @@ slides:
  - title: Codificación por bloques
    slide-data: En la codificación por bloques, dividimos nuestro mensaje en bloques, cada uno con 'K' cantidad de bits llamada 'Palabra'. Se añaden 'r' bits redundantes para crear una longitud 'n = k + r'.
 
- - title: Slide 3
-   slide-data: This is thid slide 
+ - title: Deteccion de Errores
+   slide-data: Existen maneras de detectar errores usando la codificación por bloques. - El receptor encuentra la lista de los 'Códigos' válidos. - El 'Código' original ha sido cambiado a uno inválido.
 
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Corrección de errores
+   slide-data: El receptor necesita saber que un solo 'código' es inválido. Por ello, necesita encontrar (o adivinar) el 'código' original enviado.
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Hamming Distance
+   slide-data: La Hamming distance es el número de diferencias entre sus bits. Usa un operador de XOR y cuenta el número de 1s en el resultado.
 
  - title: Slide 3
    slide-data: This is thid slide
@@ -61,7 +61,7 @@ slides:
  - title: Slide 2
    slide-data: This is second slide
 
- - title: Slide 16
+ - title: Slide 17
    slide-data: This is thid slide
 ---
 
