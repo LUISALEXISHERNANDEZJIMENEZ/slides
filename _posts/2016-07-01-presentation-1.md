@@ -50,7 +50,7 @@ slides:
    slide-data: La Hamming distance es el número de diferencias entre sus bits. Usa un operador de XOR y cuenta el número de 1s en el resultado.
 
  - title: Códigos cíclicos
-   slide-data: data: Los códigos cíclicos son un tipo de Código de bloques con una propiedad extra. Si un "Código" es rotado o sus dígitos se ponen al revés, el resultado será otro "Código" diferente.
+   slide-data: data: --
 
  - title: Slide 3
    slide-data: This is thid slide 
@@ -61,7 +61,7 @@ slides:
  - title: Slide 2
    slide-data: This is second slide
 
- - title: Slide 19
+ - title: Slide 20
    slide-data: This is thid slide
 ---
 
