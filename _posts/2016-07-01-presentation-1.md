@@ -13,17 +13,17 @@ slides:
  - title: Tipos de errores
    slide-data: Al transmitir bits, la interferencia puede alterar la señal. En un error de un solo bit, un 0 cambia a 1 o viceversa. En un error en ráfaga, varios bits se alteran, por ejemplo, el ruido en una transmisión de 1200 bps podría cambiar 12 bits de información.
   
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Error de un solo bit.
+   slide-data: Al transmitir bits, la interferencia puede alterar la señal. En un error de un solo bit, un 0 cambia a 1 o viceversa. En un error en ráfaga, varios bits se alteran, por ejemplo, el ruido en una transmisión de 1200 bps podría cambiar 12 bits de información.
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Redundancia
+   slide-data: Para detectar o corregir errores, se necesitan enviar bits extra junto a nuestros datos. Esta redundancia es eliminada por el receptor, permitiendo detectar o corregir los bits corruptos.
 
- - title: Slide 3
-   slide-data: This is thid slide
+ - title: Deteccion o Correccion
+   slide-data: En la detección, solo se verifica si hay un error, mientras que en la corrección se necesita saber cuántos bits están corruptos y sus ubicaciones, lo que aumenta la complejidad, especialmente en unidades de datos grandes
    
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Metodos de corrección
+   slide-data: Existen 2 métodos de corrección de errores; -Forward error correction; El receptor intenta adivinar el mensaje usando los bits restantes. - Retransmisión; El receptor pide al emisor reenviar el mensaje hasta que llegue sin errores. 
      
  - title: Slide 2
    slide-data: This is second slide
