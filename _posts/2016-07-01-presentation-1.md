@@ -41,7 +41,7 @@ slides:
    slide-data: En la codificación por bloques, dividimos nuestro mensaje en bloques, cada uno con 'K' cantidad de bits llamada 'Palabra'. Se añaden 'r' bits redundantes para crear una longitud 'n = k + r'.
 
  - title: Deteccion de Errores
-   slide-data: Existen maneras de detectar errores usando la codificación por bloques. - El receptor encuentra la lista de los 'Códigos' válidos. - El 'Código' original ha sido cambiado a uno inválido.
+   slide-data: --
 
  - title: Corrección de errores
    slide-data: ---
@@ -61,7 +61,7 @@ slides:
  - title: Slide 2
    slide-data: This is second slide
 
- - title: Slide 21
+ - title: Slide 22
    slide-data: This is thid slide
 ---
 
