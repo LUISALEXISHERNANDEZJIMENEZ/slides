@@ -28,11 +28,11 @@ slides:
  - title: Redundancia
    slide-data: Para detectar o corregir errores, se necesitan enviar bits extra junto a nuestros datos. Esta redundancia es eliminada por el receptor, permitiendo detectar o corregir los bits corruptos.
 
- - title: Slide 3
-   slide-data: This is thid slide 
+ - title: Deteccion o Correccion
+   slide-data: En la detección, solo se verifica si hay un error, mientras que en la corrección se necesita saber cuántos bits están corruptos y sus ubicaciones, lo que aumenta la complejidad, especialmente en unidades de datos grandes.
 
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Codificar
+   slide-data: El emisor añade redundancia a los bits mientras un proceso crea una relación entre los bits redundantes y los bits verdaderos detectados.
      
  - title: Slide 2
    slide-data: This is second slide
