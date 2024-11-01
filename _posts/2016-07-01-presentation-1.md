@@ -56,7 +56,7 @@ slides:
    slide-data: Una ventaja de los códigos cíclicos es que el codificador y el decodificador pueden ser fácilmente implementados en hardware.
 
  - title: Ventajas de códigos cíclicos
-   slide-data: - Detectan errores de 1 bit, errores dobles, errores impares y errores de ráfaga. - Implementarse fácilmente en hardware y software.
+   slide-data: -- Detectan errores de 1 bit, errores dobles, errores impares y errores de ráfaga. - Implementarse fácilmente en hardware y software.
      
  - title: Checksum
    slide-data: Este se basa en la redundancia y es muy utilizado por diversos protocolos de Internet, esto para la detección de errores.
