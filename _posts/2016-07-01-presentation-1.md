@@ -7,7 +7,7 @@ slides:
  - title: Deteccion y Corrección de Errores 
    slide-data: 
      
- - title: 
+ - title: Introducción
    slide-data: Para la mayoria de aplicaciones el sistema debe garantizar que los datos recibidos sean identicos a los datos transmitidos
 
  - title: Tipos de errores
@@ -16,8 +16,17 @@ slides:
  - title: Error de un solo bit.
    slide-data: Al transmitir bits, la interferencia puede alterar la señal. En un error de un solo bit, un 0 cambia a 1 o viceversa. En un error en ráfaga, varios bits se alteran, por ejemplo, el ruido en una transmisión de 1200 bps podría cambiar 12 bits de información.
 
- - title: Deteccion y Corrección de Errores 
-   slide-data: 
+ - title: Redundancia 
+   slide-data: Para detectar o corregir errores, se necesitan enviar bits extra junto a nuestros datos. Esta redundancia es eliminada por el receptor, permitiendo detectar o corregir los bits corruptos.
+
+   - title: Redundancia 
+   slide-data: Para detectar o corregir errores, se necesitan enviar bits extra junto a nuestros datos. Esta redundancia es eliminada por el receptor, permitiendo detectar o corregir los bits corruptos.
+   
+   - title: Redundancia 
+   slide-data: Para detectar o corregir errores, se necesitan enviar bits extra junto a nuestros datos. Esta redundancia es eliminada por el receptor, permitiendo detectar o corregir los bits corruptos.
+
+   - title: Redundancia 
+   slide-data: Para detectar o corregir errores, se necesitan enviar bits extra junto a nuestros datos. Esta redundancia es eliminada por el receptor, permitiendo detectar o corregir los bits corruptos.
   
 ---
 
