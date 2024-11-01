@@ -1,17 +1,17 @@
 ---
-title: Presentation 1
+title: Capitulo 10
 layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Deteccion y Corrección de Errores
+   slide-data: 
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Introducción
+   slide-data: Para la mayoria de aplicaciones el sistema debe garantizar que los datos recibidos sean identicos a los datos transmitidos
 
- - title: Slide 3
-   slide-data: This is thid slide
+ - title: Tipos de errores
+   slide-data: Al transmitir bits, la interferencia puede alterar la señal. En un error de un solo bit, un 0 cambia a 1 o viceversa. En un error en ráfaga, varios bits se alteran, por ejemplo, el ruido en una transmisión de 1200 bps podría cambiar 12 bits de información.
   
  - title: Slide 1
    slide-data: This is first slide
