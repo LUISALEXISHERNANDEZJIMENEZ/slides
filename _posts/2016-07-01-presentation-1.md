@@ -13,6 +13,32 @@ slides:
  - title: Slide 3
    slide-data: This is thid slide
   
+ - title: Slide 1
+   slide-data: This is first slide
+     
+ - title: Slide 2
+   slide-data: This is second slide
+
+ - title: Slide 3
+   slide-data: This is thid slide
+   
+    - title: Slide 1
+   slide-data: This is first slide
+     
+ - title: Slide 2
+   slide-data: This is second slide
+
+ - title: Slide 3
+   slide-data: This is thid slide 
+
+ - title: Slide 1
+   slide-data: This is first slide
+     
+ - title: Slide 2
+   slide-data: This is second slide
+
+ - title: Slide 3
+   slide-data: This is thid slide 
 ---
 
 {% for slide in page.slides %}
