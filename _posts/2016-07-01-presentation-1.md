@@ -42,6 +42,12 @@ slides:
   
  - title: Deteccion de Errores
    slide-data: Existen maneras de detectar errores usando la codificación por bloques. - El receptor encuentra la lista de los 'Códigos' válidos. - El 'Código' original ha sido cambiado a uno inválido.
+
+ - title: Corrección de errores
+   slide-data: En una corrección de errores, el receptor necesita saber que un solo 'código' es inválido. Asi que, necesita encontrar el 'código' original enviado
+     
+ - title: Hamming Distance
+   slide-data: La Hamming distance entre 2 'Palabras' (del mismo tamaño) es el número de diferencias entre sus bits. Se encuentra usando un operador de XOR y contando el número de 1s en el resultado.
 ---
 
 {% for slide in page.slides %}
