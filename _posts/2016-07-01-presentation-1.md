@@ -34,6 +34,18 @@ slides:
  - title: Codificar
    slide-data: El emisor añade redundancia a los bits mientras un proceso crea una relación entre los bits redundantes y los bits verdaderos detectados.
      
+ - title: Aritmetica modular
+   slide-data: La aritmética modular utiliza un rango limitado de enteros definido por un módulo N, que establece un límite superior. Solo se consideran los enteros del 0 al N−1. En este sistema, si un número supera N, se divide por N y se toma el residuo como resultado.Si el número es negativo, se suma N hasta que sea positivo.
+
+ - title: Codificación por bloques
+   slide-data: En la codificación por bloques, dividimos nuestro mensaje en bloques, cada uno con 'K' cantidad de bits llamada 'Palabra'. Se añaden 'r' bits redundantes para crear una longitud 'n = k + r'.
+
+ - title: Slide 3
+   slide-data: This is thid slide 
+
+ - title: Slide 1
+   slide-data: This is first slide
+     
  - title: Slide 2
    slide-data: This is second slide
 
@@ -49,19 +61,7 @@ slides:
  - title: Slide 2
    slide-data: This is second slide
 
- - title: Slide 3
-   slide-data: This is thid slide
-
- - title: Slide 3
-   slide-data: This is thid slide 
-
- - title: Slide 1
-   slide-data: This is first slide
-     
- - title: Slide 2
-   slide-data: This is second slide
-
- - title: Slide 14
+ - title: Slide 16
    slide-data: This is thid slide
 ---
 
