@@ -44,10 +44,10 @@ slides:
    slide-data: Existen maneras de detectar errores usando la codificación por bloques. - El receptor encuentra la lista de los 'Códigos' válidos. - El 'Código' original ha sido cambiado a uno inválido.
 
  - title: Corrección de errores
-   slide-data: El receptor necesita saber que un solo 'código' es inválido. Por ello, necesita encontrar (o adivinar) el 'código' original enviado.
+   slide-data: ---
      
  - title: Hamming Distance
-   slide-data: La Hamming distance es el número de diferencias entre sus bits. Usa un operador de XOR y cuenta el número de 1s en el resultado.
+   slide-data: --
 
  - title: Códigos cíclicos
    slide-data: data: --
@@ -61,7 +61,7 @@ slides:
  - title: Slide 2
    slide-data: This is second slide
 
- - title: Slide 20
+ - title: Slide 21
    slide-data: This is thid slide
 ---
 
