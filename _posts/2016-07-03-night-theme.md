@@ -101,16 +101,16 @@ slides:
                     --El uso de ciertas partes de la banda requiere permiso de las autoridades.
 
    
- - title: AH
-   slide-data: This is third slide
+ - title: Antena unidireccional
+   slide-data: Las microondas necesitan antenas unidireccionales que envíen señales en una dirección. Para las comunicaciones por microondas se utilizan dos tipos de antenas; la antena parabólica y la antena de bocina. <br>
 
 
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Infrarrojos
+   slide-data: --Las ondas infrarrojas, con frecuencias de 300 GHz a 400 THz (longitudes de onda de 1 mm a 770 nm), se pueden usar para la comunicación de corto alcance. --Las ondas infrarrojas, que tienen frecuencias altas, no pueden atravesar paredes. 
 
    
- - title: LJ
-   slide-data: This is third slide
+ - title: GRACIAS
+   slide-data: 
 
 ---
 
