@@ -61,8 +61,8 @@ slides:
    slide-data: Varios haces de una fuente de luz se mueven a través del núcleo en diferentes trayectorias. La forma en que estos haces se mueven dentro del cable depende de la estructura del núcleo
 
 
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Multimodo indice graduado
+   slide-data: Es una fibra con densidades variables. La densidad es más alta en el centro del núcleo y disminuye gradualmente hasta su nivel más bajo en el borde.
  
      
  - title: Slide 2
@@ -71,6 +71,7 @@ slides:
    
  - title: DS
    slide-data: This is third slide
+
 
  - title: IP
    slide-data: This is third slide
@@ -93,6 +94,14 @@ slides:
 
    
  - title: AH
+   slide-data: This is third slide
+
+
+ - title: Slide 2
+   slide-data: This is second slide
+
+   
+ - title: LJ
    slide-data: This is third slide
 
 ---
