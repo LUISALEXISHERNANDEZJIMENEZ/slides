@@ -25,12 +25,12 @@ slides:
    slide-data: Consta de dos conductores (mayormente cobre), cada uno con su propio aislamiento plastico, trenzados entre si
 
    
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Par trenzado blindado
+   slide-data: --Tiene una lamina metalica que cubre cada par de conductores aislados. --Mejora la calidad del cable y evitar el ruido o diafonia
 
 
- - title: Capitulo 7
-   slide-data: This is first slide
+ - title: Categorias
+   slide-data: Se determinan segun la calidad del cable, siendo 1 la mas baja y 7 la mas alta.
  
      
  - title: Slide 2
