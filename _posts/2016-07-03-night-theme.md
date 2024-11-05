@@ -1,23 +1,12 @@
 ---
-title: Night Theme
+title: Capitulo 7
 layout: post
 permalink: /night/
 theme: night
  
 slides:
  - title: Capitulo 7
-   slide-data: 
- 
-     
- - title: Slide 2
-   slide-data: This is second slide
-
-   
- - title: Slide 3
-   slide-data: This is third slide
-  
- - title: Capitulo 7
-   slide-data: 
+   slide-data: This is first slide
  
      
  - title: Slide 2
@@ -27,64 +16,9 @@ slides:
  - title: Slide 3
    slide-data: This is third slide
 
-  - title: Capitulo 7
-   slide-data: 
- 
-     
- - title: Slide 2
-   slide-data: This is second slide
 
-   
- - title: Slide 3
-   slide-data: This is third slide
-  
- - title: Capitulo 7
-   slide-data: 
- 
-     
- - title: Slide 2
-   slide-data: This is second slide
-
-   
- - title: Slide 3
-   slide-data: This is third slide
-
-  
-  - title: Capitulo 7
-   slide-data: 
- 
-     
- - title: Slide 2
-   slide-data: This is second slide
-
-   
- - title: Slide 3
-   slide-data: This is third slide
-  
- - title: Capitulo 7
-   slide-data: 
- 
-     
- - title: Slide 2
-   slide-data: This is second slide
-
-   
- - title: Slide 3
-   slide-data: This is third slide
-
-  - title: Capitulo 7
-   slide-data: 
- 
-     
- - title: Slide 2
-   slide-data: This is second slide
-
-   
- - title: Slide 3
-   slide-data: This is third slide
-  
- - title: Capitulo 7
-   slide-data: 
+ - title: Slide 1
+   slide-data: This is first slide
  
      
  - title: Slide 2
