@@ -17,12 +17,12 @@ slides:
    slide-data: Se pueden dividir en dos grandes categorias; --Guiados; Incluyen el par trenzado, cable coaxial y cable de fibra optica  --No guiados; Es el espacio libre
 
 
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Medios Guiados 7.1
+   slide-data: Son aquellos que proporcionan un conducto de un dispositivo a otro.
  
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Cable de par trenzado
+   slide-data: Consta de dos conductores (mayormente cobre), cada uno con su propio aislamiento plastico, trenzados entre si
 
    
  - title: Slide 3
