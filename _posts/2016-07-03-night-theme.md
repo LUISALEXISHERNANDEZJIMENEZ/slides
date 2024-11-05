@@ -77,8 +77,8 @@ slides:
    slide-data: La cubierta exterior está hecha de PVC o teflón. En el interior de la cubierta hay hilos de Kevlar para reforzar el cable. Debajo del Kevlar hay otro revestimiento de plástico para amortiguar la fibra. La fibra está en el centro del cable y consta de revestimiento y núcleo.
 
 
- - title: Slide 2
-   slide-data: This is second slide
+ - title: MEDIOS NO GUIADOS; INALÁMBRICO
+   slide-data: Transportan ondas electromagnéticas sin utilizar un conductor físico. Este tipo de comunicación se conoce a menudo como comunicación inalámbrica. Las señales se transmiten a través del espacio libre y, están disponibles para cualquier persona que tenga un dispositivo capaz de recibirlas.
 
    
  - title: Slide 3
