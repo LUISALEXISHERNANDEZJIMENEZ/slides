@@ -33,12 +33,12 @@ slides:
    slide-data: Se determinan segun la calidad del cable, siendo 1 la mas baja y 7 la mas alta.
  
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Conectores
+   slide-data: El conector mas comun para el UTP es el RJ45. Es un conector codificado, es decir, que solo se puede insertar de una sola manera
 
    
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Cable Coaxial
+   slide-data: Consta de dos cables, tiene un conductor central de cable trenzado envuelto en una funda aislante que esta revstida por una lamina metalica. La envoltura exterior sirve para la proteccion contra el ruido .
 
 
  - title: Slide 1
