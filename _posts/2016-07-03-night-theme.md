@@ -65,16 +65,16 @@ slides:
    slide-data: Es una fibra con densidades variables. La densidad es más alta en el centro del núcleo y disminuye gradualmente hasta su nivel más bajo en el borde.
  
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Monomodo
+   slide-data: Utiliza fibra de índice escalonado y una fuente de luz enfocada que limita los haces a un pequeño rango de ángulos. La disminución de la densidad da como resultado un ángulo crítico que está lo suficientemente cerca de 90° para hacer que la propagación de los haces sea casi horizontal.
 
    
- - title: DS
-   slide-data: This is third slide
+ - title: Tamaños de fibra
+   slide-data: Se definen por la relación entre el diámetro de su núcleo y el diámetro de su revestimiento, ambos expresados ​​en micrómetros.
 
 
- - title: IP
-   slide-data: This is third slide
+ - title: Composición de cables
+   slide-data: La cubierta exterior está hecha de PVC o teflón. En el interior de la cubierta hay hilos de Kevlar para reforzar el cable. Debajo del Kevlar hay otro revestimiento de plástico para amortiguar la fibra. La fibra está en el centro del cable y consta de revestimiento y núcleo.
 
 
  - title: Slide 2
