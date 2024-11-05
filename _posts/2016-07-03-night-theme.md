@@ -81,12 +81,15 @@ slides:
    slide-data: Transportan ondas electromagnéticas sin utilizar un conductor físico. Este tipo de comunicación se conoce a menudo como comunicación inalámbrica. Las señales se transmiten a través del espacio libre y, están disponibles para cualquier persona que tenga un dispositivo capaz de recibirlas.
 
    
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Bandas
+   slide-data: Las ondas de radio y microondas se divide en ocho rangos, denominados bandas. Estas bandas se clasifican desde frecuencias muy bajas (VLF) hasta frecuencias extremadamente altas (EHF)
 
 
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Ondas de Radio
+   slide-data: --Las ondas de radio, en su mayor parte, son omnidireccionales.
+                    --Cuando una antena transmite ondas de radio, estas se propagan en todas las direcciones.
+                    --Las ondas de radio, en particular las que se propagan en el cielo, pueden viajar grandes distancias.
+                    --El uso de cualquier parte de la banda requiere el permiso de las autoridades.
  
      
  - title: Slide 2
