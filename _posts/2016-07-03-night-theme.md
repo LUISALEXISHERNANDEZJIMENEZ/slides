@@ -92,8 +92,13 @@ slides:
                     --El uso de cualquier parte de la banda requiere el permiso de las autoridades.
  
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Microondas
+   slide-data: --Las ondas electromagnéticas que tienen frecuencias entre 1 y 300 GHz se denominan microondas.
+                    --Las microondas son unidireccionales.
+                    --La propagación se produce en línea de visión.
+                    --Las microondas de muy alta frecuencia no pueden atravesar paredes.
+                    --La banda es relativamente amplia, casi 299 GHz.
+                    --El uso de ciertas partes de la banda requiere permiso de las autoridades.
 
    
  - title: AH
