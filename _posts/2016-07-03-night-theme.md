@@ -6,7 +6,7 @@ theme: night
  
 slides:
  - title: Capitulo 7
-   slide-data: This is first slide
+   slide-data: --Hernandez Jimenez Luis Alexis
  
      
  - title: Slide 2

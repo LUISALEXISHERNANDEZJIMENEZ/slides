@@ -5,7 +5,7 @@ permalink: /presentation-1/
 background: '#0a5'
 slides:
  - title: Deteccion y Corrección de Errores.
-   slide-data: 
+   slide-data: -- Hernandez Jimenez Luis Alexis
      
  - title: Introducción
    slide-data: Para la mayoria de aplicaciones el sistema debe garantizar que los datos recibidos sean identicos a los datos transmitidos
