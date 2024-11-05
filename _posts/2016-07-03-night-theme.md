@@ -9,12 +9,12 @@ slides:
    slide-data: --Hernandez Jimenez Luis Alexis
  
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Medios de Transmisión
+   slide-data: Un medio de transmision puede definirse como cualquier cosa que puede llevar informacion desde una fuente a un destino
 
    
- - title: Slide 3
-   slide-data: This is third slide
+ - title: 
+   slide-data: Se pueden dividir en dos grandes categorias; --Guiados; Incluyen el par trenzado, cable coaxial y cable de fibra optica  --No guiados; Es el espacio libre
 
 
  - title: Slide 1
