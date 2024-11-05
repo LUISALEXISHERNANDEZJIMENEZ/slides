@@ -4,7 +4,7 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Deteccion y Corrección de Errores
+ - title: Deteccion y Corrección de Errores.
    slide-data: 
      
  - title: Introducción
