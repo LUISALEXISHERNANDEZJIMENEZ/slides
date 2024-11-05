@@ -49,16 +49,16 @@ slides:
    slide-data: Para conectar un cable coaxial a los dispositivos, necesitamos conectores coaxiales. El tipo de conector más común que se usa es el conector Bayone-Neill-Concelman (BNC). El conector BNC T se usa en redes Ethernet para derivar la señal a una computadora u otro dispositivo.
 
    
- - title: IP
-   slide-data: This is third slide
+ - title: Cable de fibra óptica
+   slide-data: Está hecho de vidrio o plástico y transmite señales en forma de luz. La diferencia de densidad debe ser tal que un haz de luz que se mueve a través del núcleo se refleje en el revestimiento en lugar de refractarse en él.
 
 
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Modos de propagación
+   slide-data: Admite dos modos (multimodo y monomodo) para propagar la luz por los canales ópticos, cada uno requiere fibras con características físicas diferentes. El modo multimodo se puede implementar en dos formas; índice escalonado o índice graduado.
 
    
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Multimodo
+   slide-data: Varios haces de una fuente de luz se mueven a través del núcleo en diferentes trayectorias. La forma en que estos haces se mueven dentro del cable depende de la estructura del núcleo
 
 
  - title: Slide 1
